@@ -26,9 +26,9 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.labormenu.LoginActivity" />
-        <activity android:name="com.example.labormenu.MainActivity" />
-        <activity android:name="com.example.labormenu.LaborActivity" />
-        <activity android:name="com.example.labormenu.ManagerActivity" />
+        <activity android:name="com.example.labormenu.SelectUserActivity" />
+        <activity android:name="com.example.labormenu.LaborMenuActivity" />
+        <activity android:name="com.example.labormenu.ManagerMenuActivity" />
         <activity android:name="com.example.labormenu.RegisterActivity" />
     </application>
 

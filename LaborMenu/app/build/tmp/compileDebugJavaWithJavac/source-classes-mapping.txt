@@ -1,18 +1,18 @@
-com/example/labormenu/ManagerActivity.java
- com.example.labormenu.ManagerActivity
-com/example/labormenu/RegisterActivity.java
- com.example.labormenu.RegisterActivity
-com/example/labormenu/MainActivity.java
- com.example.labormenu.MainActivity
- com.example.labormenu.MainActivity$1
- com.example.labormenu.MainActivity$2
-com/example/labormenu/LaborActivity.java
- com.example.labormenu.LaborActivity
-com/example/labormenu/BuildConfig.java
- com.example.labormenu.BuildConfig
+com/example/labormenu/LaborMenuActivity.java
+ com.example.labormenu.LaborMenuActivity
+com/example/labormenu/ManagerMenuActivity.java
+ com.example.labormenu.ManagerMenuActivity
+com/example/labormenu/SelectUserActivity.java
+ com.example.labormenu.SelectUserActivity
+ com.example.labormenu.SelectUserActivity$1
+ com.example.labormenu.SelectUserActivity$2
 com/example/labormenu/IntroActivity.java
  com.example.labormenu.IntroActivity
  com.example.labormenu.IntroActivity$1
+com/example/labormenu/RegisterActivity.java
+ com.example.labormenu.RegisterActivity
 com/example/labormenu/LoginActivity.java
  com.example.labormenu.LoginActivity
  com.example.labormenu.LoginActivity$1
+com/example/labormenu/BuildConfig.java
+ com.example.labormenu.BuildConfig

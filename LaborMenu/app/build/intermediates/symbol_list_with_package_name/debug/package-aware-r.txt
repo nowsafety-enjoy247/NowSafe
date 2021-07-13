@@ -995,11 +995,14 @@ color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color back
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue
+color blue_2
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1707,6 +1710,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable intrologo
 drawable logo
+drawable logo_white2
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1836,6 +1840,8 @@ id button2
 id button3
 id button4
 id button5
+id button7
+id button8
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1844,7 +1850,6 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
-id checkManageButton
 id checkbox
 id checked
 id chip
@@ -1962,6 +1967,7 @@ id linear
 id listMode
 id list_item
 id login
+id logo
 id managerButton
 id masked
 id material_clock_display
@@ -2017,7 +2023,6 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
-id myInfor
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2052,7 +2057,7 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
-id qrButton
+id qrCodeButton
 id radio
 id radioButton
 id radioButton2
