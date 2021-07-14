@@ -98,7 +98,11 @@
         android:text="로그인"
         android:textColor="@color/white"
         android:textSize="20sp"
+<<<<<<< HEAD
         app:backgroundTint="#2E4BE8"
+=======
+        app:backgroundTint="#0635E3"
+>>>>>>> Hyunjin
         app:layout_constraintBottom_toTopOf="@+id/button3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.4"

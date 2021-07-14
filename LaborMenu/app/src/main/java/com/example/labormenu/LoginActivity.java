@@ -25,7 +25,11 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void goToMain(View view) {
+<<<<<<< HEAD
         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+=======
+        Intent intent = new Intent(getApplicationContext(), SelectUserActivity.class);
+>>>>>>> Hyunjin
         startActivity(intent);
     }
 }

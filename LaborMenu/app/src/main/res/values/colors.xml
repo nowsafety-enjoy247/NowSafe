@@ -3,8 +3,24 @@
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
+<<<<<<< HEAD
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+=======
+    <color name="blue">#0635E3</color>
+    <color name="blue_2">#2E4BE8</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="back">#FFF3F4F9</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#FFFFE8E8</color>
+    <color name="yellow">#FFFDFBE9</color>
+    <color name="green">#FFE9FFE7</color>
+    <color name="blue_3">#FFE8F5FE</color>
+    <color name="gray">#FFE3E3E3</color>
+>>>>>>> Hyunjin
 </resources>
