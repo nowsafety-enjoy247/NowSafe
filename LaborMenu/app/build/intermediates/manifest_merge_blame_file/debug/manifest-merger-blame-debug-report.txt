@@ -11,7 +11,7 @@
 9-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:5:5-26:19
+11-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:5:5-28:19
 12        android:allowBackup="true"
 12-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,35 +28,42 @@
 19        android:testOnly="true"
 20        android:theme="@style/Theme.LaborMenu" >
 20-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:11:9-47
-21        <activity android:name="com.example.labormenu.IntroActivity" >
-21-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:15:9-20:20
-21-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:15:19-48
-22            <intent-filter>
-22-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:13-19:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:17:17-69
-23-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:17:25-66
+21        <meta-data
+21-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:12:9-14:55
+22            android:name="com.google.android.actions"
+22-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:13:13-54
+23            android:resource="@drawable/image_size" />
+23-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:14:13-52
 24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:17-77
-25-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:27-74
-26            </intent-filter>
-27        </activity>
-28        <activity android:name="com.example.labormenu.LoginActivity" />
-28-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:21:9-50
-28-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:21:19-48
-29        <activity android:name="com.example.labormenu.SelectUserActivity" />
-29-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:22:9-55
-29-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:22:19-53
-30        <activity android:name="com.example.labormenu.LaborMenuActivity" />
-30-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:9-54
-30-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:19-52
-31        <activity android:name="com.example.labormenu.ManagerMenuActivity" />
-31-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:9-56
-31-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:19-54
-32        <activity android:name="com.example.labormenu.RegisterActivity" />
-32-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:9-53
-32-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:19-51
-33    </application>
-34
-35</manifest>
+25        <activity android:name="com.example.labormenu.IntroActivity" >
+25-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:9-22:20
+25-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:19-48
+26            <intent-filter>
+26-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:17-69
+27-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:20:17-77
+29-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.example.labormenu.LoginActivity" />
+32-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:9-51
+32-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:19-48
+33        <activity android:name="com.example.labormenu.SelectUserActivity" />
+33-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:9-56
+33-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:19-53
+34        <activity android:name="com.example.labormenu.LaborMenuActivity" />
+34-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:9-55
+34-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:19-52
+35        <activity android:name="com.example.labormenu.ManagerMenuActivity" />
+35-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:26:9-57
+35-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:26:19-54
+36        <activity android:name="com.example.labormenu.RegisterActivity" />
+36-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:27:9-54
+36-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:27:19-51
+37    </application>
+38
+39</manifest>

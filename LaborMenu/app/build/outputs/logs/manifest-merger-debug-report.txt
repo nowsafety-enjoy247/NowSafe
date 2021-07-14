@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\10046aad9e73cbf22653afacdcab8838\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\0db51bfebffdf02cab6c3906aa1040ae\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\77c7b97873973e149b09819f46c0a153\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
@@ -39,25 +39,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\whgus\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\8b1826e082b884f9fc593d27a9580a45\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\10046aad9e73cbf22653afacdcab8838\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\10046aad9e73cbf22653afacdcab8838\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\whgus\.gradle\caches\transforms-2\files-2.1\0db51bfebffdf02cab6c3906aa1040ae\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -80,40 +80,46 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wh
 		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:11:9-47
+meta-data#com.google.android.actions
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:12:9-14:55
+	android:resource
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:14:13-52
+	android:name
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:13:13-54
 activity#com.example.labormenu.IntroActivity
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:15:9-20:20
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:15:19-48
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:13-19:29
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:20:27-74
 activity#com.example.labormenu.LoginActivity
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:21:9-50
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:9-51
 	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:21:19-48
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:19-48
 activity#com.example.labormenu.SelectUserActivity
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:22:9-55
-	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:22:19-53
-activity#com.example.labormenu.LaborMenuActivity
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:9-54
-	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:23:19-52
-activity#com.example.labormenu.ManagerMenuActivity
 ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:9-56
 	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:19-54
-activity#com.example.labormenu.RegisterActivity
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:9-53
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:24:19-53
+activity#com.example.labormenu.LaborMenuActivity
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:9-55
 	android:name
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:19-51
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:25:19-52
+activity#com.example.labormenu.ManagerMenuActivity
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.example.labormenu.RegisterActivity
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:27:19-51
 uses-sdk
 INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml

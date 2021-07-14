@@ -18,6 +18,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.LaborMenu" >
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@drawable/image_size" />
+
         <activity android:name="com.example.labormenu.IntroActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

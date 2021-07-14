@@ -33,30 +33,34 @@
 
 
         <Button
+            android:id="@+id/checkManageButton"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/image_size"
+            android:text="점검 조회"
+            android:textSize="34sp"
+            app:backgroundTint="#FFFFFF" />
+
+        <Button
             android:id="@+id/qrCodeButton"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:text="Button"
+            android:text="QR코드"
+            android:textSize="34sp"
             app:backgroundTint="#FFFFFF" />
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/myInformationButton"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:text="Button"
-            app:backgroundTint="#FFFFFF" />
-
-        <Button
-            android:id="@+id/button8"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="7dp"
-            android:layout_weight="1"
-            android:text="Button"
+            android:text="내정보조회"
+            android:textSize="34sp"
             app:backgroundTint="@color/white" />
     </LinearLayout>
 </LinearLayout>

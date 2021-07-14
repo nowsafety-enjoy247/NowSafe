@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_checkmanage.png.flat",
+        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\drawable-v24\\checkmanage.png"
+    },
+    {
         "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -24,6 +28,10 @@
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_size.xml.flat",
+        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\drawable-v24\\image_size.xml"
+    },
+    {
         "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
@@ -40,12 +48,20 @@
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\drawable-v24\\logo_white2.png"
     },
     {
-        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myinform.png.flat",
+        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\drawable-v24\\myinform.png"
+    },
+    {
+        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_qrcode.jpg.flat",
+        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\drawable-v24\\qrcode.jpg"
     },
     {
         "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_intrologo.png.flat",
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\drawable-v24\\intrologo.png"
+    },
+    {
+        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
@@ -100,12 +116,12 @@
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\whgus\\Desktop\\NowSafe\\NowSafe_Adnroid_git\\LaborMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
