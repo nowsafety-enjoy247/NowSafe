@@ -1714,7 +1714,6 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
-drawable image_size
 drawable intrologo
 drawable logo
 drawable logo_white2
@@ -1753,6 +1752,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable qrcode
+drawable resizecheckicon1
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light

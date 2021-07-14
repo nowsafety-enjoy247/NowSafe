@@ -29,11 +29,11 @@
 20        android:theme="@style/Theme.LaborMenu" >
 20-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:11:9-47
 21        <meta-data
-21-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:12:9-14:55
+21-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:12:9-14:61
 22            android:name="com.google.android.actions"
 22-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:13:13-54
-23            android:resource="@drawable/image_size" />
-23-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:14:13-52
+23            android:resource="@drawable/resizecheckicon1" />
+23-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:14:13-58
 24
 25        <activity android:name="com.example.labormenu.IntroActivity" >
 25-->C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:16:9-22:20

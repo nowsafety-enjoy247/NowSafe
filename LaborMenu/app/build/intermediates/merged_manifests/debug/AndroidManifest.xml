@@ -20,7 +20,7 @@
         android:theme="@style/Theme.LaborMenu" >
         <meta-data
             android:name="com.google.android.actions"
-            android:resource="@drawable/image_size" />
+            android:resource="@drawable/resizecheckicon1" />
 
         <activity android:name="com.example.labormenu.IntroActivity" >
             <intent-filter>

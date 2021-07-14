@@ -81,9 +81,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wh
 	android:theme
 		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:11:9-47
 meta-data#com.google.android.actions
-ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:12:9-14:55
+ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:12:9-14:61
 	android:resource
-		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:14:13-52
+		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:14:13-58
 	android:name
 		ADDED from C:\Users\whgus\Desktop\NowSafe\NowSafe_Adnroid_git\LaborMenu\app\src\main\AndroidManifest.xml:13:13-54
 activity#com.example.labormenu.IntroActivity
