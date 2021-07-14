@@ -38,20 +38,8 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:drawableLeft="@drawable/resizecheckicon1"
-            android:text="점검 조회"
-            android:textSize="34sp"
-            app:backgroundTint="#FFFFFF"
-            app:cornerRadius="30dp" />
-
-        <Button
-            android:id="@+id/qrCodeButton"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_margin="7dp"
-            android:layout_weight="1"
-            android:drawableLeft="@drawable/resizeqricon"
-            android:text="QR코드"
+            android:drawableTop="@drawable/resizecheckicon1"
+            android:drawableBottom="@drawable/checktext"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
@@ -62,10 +50,23 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:drawableLeft="@drawable/resizemanicon"
-            android:text="내정보조회"
+            android:drawableTop="@drawable/resizemanicon"
+            android:drawableBottom="@drawable/myinfotext"
             android:textSize="34sp"
             app:backgroundTint="@color/white"
             app:cornerRadius="30dp" />
+
+        <Button
+            android:id="@+id/qrCodeButton"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/resizeqricon"
+            android:drawableBottom="@drawable/qrtext"
+            android:textSize="34sp"
+            app:backgroundTint="#FFFFFF"
+            app:cornerRadius="30dp" />
+
     </LinearLayout>
 </LinearLayout>
