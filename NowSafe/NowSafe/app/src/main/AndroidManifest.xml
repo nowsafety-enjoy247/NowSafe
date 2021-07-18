@@ -20,6 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NewpasswordActivity"/>
+        <activity android:name=".FindPasswordActivity"/>
         <activity android:name=".LoginActivity" />
         <activity android:name=".SelectUserActivity" />
         <activity android:name=".LaborMenuActivity" />

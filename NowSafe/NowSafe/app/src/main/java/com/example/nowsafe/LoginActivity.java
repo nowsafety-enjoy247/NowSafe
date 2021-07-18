@@ -15,10 +15,18 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.login);
 
 
-        Button button = (Button) findViewById(R.id.newActivity);
-        button.setOnClickListener(new View.OnClickListener() {
+        Button registerButton = (Button) findViewById(R.id.gotoRegister);
+        registerButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), RegisterActivity.class);
+                Intent intent = new Intent(getApplicationContext(),  com.example.nowsafe.RegisterActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button findpasswordbtn = (Button) findViewById(R.id.gotoPassword);
+        findpasswordbtn.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(),  com.example.nowsafe.FindPasswordActivity.class);
                 startActivity(intent);
             }
         });
