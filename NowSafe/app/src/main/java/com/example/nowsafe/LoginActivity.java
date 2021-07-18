@@ -52,7 +52,6 @@ public class LoginActivity extends AppCompatActivity {
                     public void onResponse(String response) {
                         try {
                             // TODO : 인코딩 문제때문에 한글 DB인 경우 로그인 불가
-                            System.out.println("hongchul" + response);
                             JSONObject jsonObject = new JSONObject(response);
                             boolean success = jsonObject.getBoolean("success");
                             if (success) { // 로그인에 성공한 경우
@@ -65,6 +64,16 @@ public class LoginActivity extends AppCompatActivity {
                                 intent.putExtra("userID", userID);
                                 intent.putExtra("userPass", userPass);
                                 startActivity(intent);
+                                //1)관리자인 경우
+                                /*Intent intent1 = new Intent(LoginActivity.this, ManagerMenuActivity.class);
+                                intent1.putExtra("userID", userID);
+                                intent1.putExtra("userPass", userPass);
+                                startActivity(intent1);
+                                //2)노동자인 경우
+                                Intent intent2 = new Intent(LoginActivity.this, ManagerMenuActivity.class);
+                                intent2.putExtra("userID", userID);
+                                intent2.putExtra("userPass", userPass);
+                                startActivity(intent2);*/
                             } else { // 로그인에 실패한 경우
                                 Toast.makeText(getApplicationContext(),"존재하지 않는 회원입니다.",Toast.LENGTH_SHORT).show();
                                 return;
