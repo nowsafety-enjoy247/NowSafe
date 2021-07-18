@@ -1,270 +1,310 @@
 [
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white.PNG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\white.PNG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizemanegerdocu.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizemanegerdocu.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myinfotext.JPG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\myinfotext.JPG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizemanicon.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizemanicon.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrtext.JPG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\qrtext.JPG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkhelmet.PNG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkhelmet.PNG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_rectangle.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\button_rectangle.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizehelmettext.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizehelmettext.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_managermenu.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\managermenu.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckicon1.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckicon1.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_managerdocu2.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\managerdocu2.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizeqrtext.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizeqrtext.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_intro.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\intro.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkmanage.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkmanage.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizeqrtext.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizeqrtext.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.PNG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\background.PNG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_intro.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\intro.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\login.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_managerdocu2.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\managerdocu2.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_white2.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\logo_white2.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safehelmet1.jpg.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\safehelmet1.jpg"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkqr.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkqr.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\login.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_labormenu.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\labormenu.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrtext.JPG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\qrtext.JPG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myinform.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\myinform.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckicon1.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckicon1.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttoncolor.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\buttoncolor.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_security.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\security.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkequip.PNG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkequip.PNG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_practice.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\practice.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_changepassword.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\changepassword.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizesafesystem.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizesafesystem.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizeqricon.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizeqricon.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkinfo.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkinfo.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizeqricon.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizeqricon.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\register.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizemanegerdocu.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizemanegerdocu.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checktext.JPG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checktext.JPG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizechecksystem1.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizechecksystem1.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkqr2.PNG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkqr2.PNG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_white2.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\logo_white2.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_myinfomation.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\myinfomation.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_newpassword.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\newpassword.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizesafehelmet.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizesafehelmet.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safesystem1.jpg.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\safesystem1.jpg"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkqr.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkqr.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_labormenu.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\labormenu.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intrologo.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\intrologo.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checksystem.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checksystem.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkequipment.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkequipment.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrcode.jpg.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\qrcode.jpg"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.jpg.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\password.jpg"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkinfo.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkinfo.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_managermenu.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\managermenu.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizechecktext.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizechecktext.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkhelmet.PNG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkhelmet.PNG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrcode.jpg.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\qrcode.jpg"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckequip.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckequip.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safehelmet1.jpg.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\safehelmet1.jpg"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizechecktext.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizechecktext.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizesafesystem.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizesafesystem.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttoncolor.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\buttoncolor.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkequipment.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkequipment.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckqr2.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckqr2.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkequip.PNG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkequip.PNG"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkmanage.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkmanage.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myinform.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\myinform.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\register.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intrologo.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\intrologo.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checksystem1.PNG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checksystem1.PNG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_admin.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\admin.png"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myinfotext.JPG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\myinfotext.JPG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizesafehelmet.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizesafehelmet.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkqr2.PNG.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkqr2.PNG"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizechecksystem1.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizechecksystem1.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_practice.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\practice.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckqr2.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckqr2.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checksystem.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checksystem.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizemanicon.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizemanicon.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckinfo.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckinfo.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizehelmettext.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizehelmettext.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safesystem1.jpg.flat",
-        "source": "C:\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\safesystem1.jpg"
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckinfo.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checktext.JPG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checktext.JPG"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checksystem1.PNG.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checksystem1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resizecheckequip.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\resizecheckequip.xml"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_findpassword.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\findpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     }
 ]

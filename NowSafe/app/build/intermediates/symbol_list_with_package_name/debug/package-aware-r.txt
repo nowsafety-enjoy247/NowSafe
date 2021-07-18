@@ -1690,8 +1690,10 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable admin
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1700,6 +1702,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_rectangle
 drawable buttoncolor
 drawable checkequip
 drawable checkequipment
@@ -1763,6 +1766,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable password
 drawable practice
 drawable qrcode
 drawable qrtext
@@ -1781,9 +1785,11 @@ drawable resizesafehelmet
 drawable resizesafesystem
 drawable safehelmet1
 drawable safesystem1
+drawable security
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable white
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1880,7 +1886,8 @@ id beginning
 id blocking
 id bottom
 id bounce
-id button3
+id button
+id button2
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1927,6 +1934,7 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id dialog_button
+id dialogueBoxtTitle
 id dimensions
 id direct
 id disableHome
@@ -1946,6 +1954,8 @@ id easeInOut
 id easeOut
 id editTextTextPassword
 id editTextTextPassword2
+id editTextTextPassword3
+id editTextTextPassword4
 id edit_query
 id elastic
 id end
@@ -1969,6 +1979,10 @@ id fragment_container_view_tag
 id ghost_view
 id ghost_view_holder
 id gone
+id gotoPassword
+id gotochangename
+id gotochangepassword
+id gotologin
 id graph
 id graph_wrap
 id group_divider
@@ -1983,7 +1997,6 @@ id honorRequest
 id icon
 id icon_group
 id idInput_text
-id id_text
 id ifRoom
 id ignore
 id ignoreRequest
@@ -2071,7 +2084,7 @@ id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_header_container
 id never
-id newActivity
+id new_password
 id noScroll
 id none
 id normal
@@ -2134,6 +2147,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id security
 id select_dialog_listview
 id selected
 id selection_type
@@ -2308,6 +2322,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout changepassword
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2324,6 +2339,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout findpassword
 layout intro
 layout labormenu
 layout login
@@ -2371,6 +2387,8 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout myinfomation
+layout newpassword
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
