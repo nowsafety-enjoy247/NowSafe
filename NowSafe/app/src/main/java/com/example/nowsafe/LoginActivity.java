@@ -38,7 +38,7 @@ public class LoginActivity extends AppCompatActivity {
         //아이디랑 비밀번호랑 버튼 가져오기
         et_id=findViewById(R.id.idInput_text);
         et_pass=findViewById(R.id.passwordInput_text);
-        btn_login = findViewById(R.id.login);
+        btn_login = findViewById(R.id.changepassworddone);
         //로그인 버튼 눌렀을때
         btn_login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -91,6 +91,13 @@ public class LoginActivity extends AppCompatActivity {
 
 
         //비밀번호 찾기 버튼 눌렀을때
+        Button findpasswordbtn = (Button) findViewById(R.id.gotoPassword);
+        findpasswordbtn.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(),  com.example.nowsafe.FindPasswordActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     public void goToMain(View view) {

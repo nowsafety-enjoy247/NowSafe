@@ -14,10 +14,10 @@ public class FindPasswordActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.findpassword);
 
-        Button registerButton = (Button) findViewById(R.id.login);
+        Button registerButton = (Button) findViewById(R.id.changepassworddone);
         registerButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(),  com.example.nowsafe.NewpasswordActivity.class);
+                Intent intent = new Intent(getApplicationContext(), com.example.nowsafe.NewpasswordActivity.class);
                 startActivity(intent);
             }
         });

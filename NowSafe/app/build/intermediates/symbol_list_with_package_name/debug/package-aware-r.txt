@@ -1753,6 +1753,7 @@ drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable myinform
 drawable myinfotext
+drawable myprofile
 drawable navigation_empty_icon
 drawable notification_action_background
 drawable notification_bg
@@ -1797,7 +1798,6 @@ id BtnNum1
 id BtnNum2
 id BtnNum3
 id BtnNum4
-id BtnSub5
 id CTRL
 id FUNCTION
 id InputUserName
@@ -1896,6 +1896,7 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
+id changepassworddone
 id checkbox
 id checked
 id chip
@@ -1983,6 +1984,7 @@ id gotoPassword
 id gotochangename
 id gotochangepassword
 id gotologin
+id gotomyinfo
 id graph
 id graph_wrap
 id group_divider
@@ -2019,7 +2021,6 @@ id line3
 id linear
 id listMode
 id list_item
-id login
 id logo
 id managerButton
 id masked

@@ -15,7 +15,7 @@
 11-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:6:5-32:19
+13-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:6:5-34:19
 14        android:allowBackup="true"
 14-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -54,27 +54,33 @@
 32-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:22:27-74
 33            </intent-filter>
 34        </activity>
-35        <activity android:name="com.example.nowsafe.FindPasswordActivity" />
-35-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:9-57
-35-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:19-55
-36        <activity android:name="com.example.nowsafe.NewpasswordActivity" />
-36-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:9-56
-36-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:19-54
-37        <activity android:name="com.example.nowsafe.LoginActivity" />
-37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:9-51
-37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:19-48
-38        <activity android:name="com.example.nowsafe.SelectUserActivity" />
+35        <activity android:name="com.example.nowsafe.ChangePasswordActivity" />
+35-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:9-59
+35-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:19-57
+36        <activity android:name="com.example.nowsafe.FindPasswordActivity" />
+36-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:9-57
+36-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:19-55
+37        <activity android:name="com.example.nowsafe.MyInfomationActivity" />
+37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:9-57
+37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:19-55
+38        <activity android:name="com.example.nowsafe.NewpasswordActivity" />
 38-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:9-56
-38-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:19-53
-39        <activity android:name="com.example.nowsafe.LaborMenuActivity" />
-39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:9-55
-39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:19-52
-40        <activity android:name="com.example.nowsafe.ManagerMenuActivity" />
-40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:9-57
-40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:19-54
-41        <activity android:name="com.example.nowsafe.RegisterActivity" />
-41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:9-54
-41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:19-51
-42    </application>
-43
-44</manifest>
+38-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:19-54
+39        <activity android:name="com.example.nowsafe.LoginActivity" />
+39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:9-51
+39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:19-48
+40        <activity android:name="com.example.nowsafe.SelectUserActivity" />
+40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:9-56
+40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:19-53
+41        <activity android:name="com.example.nowsafe.LaborMenuActivity" />
+41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:9-55
+41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:19-52
+42        <activity android:name="com.example.nowsafe.ManagerMenuActivity" />
+42-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:32:9-57
+42-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:32:19-54
+43        <activity android:name="com.example.nowsafe.RegisterActivity" />
+43-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:33:9-54
+43-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:33:19-51
+44    </application>
+45
+46</manifest>

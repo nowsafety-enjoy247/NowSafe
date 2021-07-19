@@ -1752,6 +1752,7 @@ int drawable mtrl_popupmenu_background_dark 0x7f070091
 int drawable mtrl_tabs_default_indicator 0x7f070092
 int drawable myinform 0x7f070093
 int drawable myinfotext 0x7f070094
+int drawable myprofile 0x7f0700ba
 int drawable navigation_empty_icon 0x7f070095
 int drawable notification_action_background 0x7f070096
 int drawable notification_bg 0x7f070097
@@ -1796,7 +1797,6 @@ int id BtnNum1 0x7f080003
 int id BtnNum2 0x7f080004
 int id BtnNum3 0x7f080005
 int id BtnNum4 0x7f080006
-int id BtnSub5 0x7f080007
 int id CTRL 0x7f080008
 int id FUNCTION 0x7f080009
 int id InputUserName 0x7f08000a
@@ -1895,6 +1895,7 @@ int id center_horizontal 0x7f080066
 int id center_vertical 0x7f080067
 int id chain 0x7f080068
 int id chains 0x7f080069
+int id changepassworddone 0x7f0801d2
 int id checkbox 0x7f08006a
 int id checked 0x7f08006b
 int id chip 0x7f08006c
@@ -1982,6 +1983,7 @@ int id gotoPassword 0x7f0800bd
 int id gotochangename 0x7f0800be
 int id gotochangepassword 0x7f0800bf
 int id gotologin 0x7f0800c0
+int id gotomyinfo 0x7f0801d1
 int id graph 0x7f0800c1
 int id graph_wrap 0x7f0800c2
 int id group_divider 0x7f0800c3
@@ -2018,7 +2020,6 @@ int id line3 0x7f0800e1
 int id linear 0x7f0800e2
 int id listMode 0x7f0800e3
 int id list_item 0x7f0800e4
-int id login 0x7f0800e5
 int id logo 0x7f0800e6
 int id managerButton 0x7f0800e7
 int id masked 0x7f0800e8

@@ -32,7 +32,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.nowsafe.ChangePasswordActivity" />
         <activity android:name="com.example.nowsafe.FindPasswordActivity" />
+        <activity android:name="com.example.nowsafe.MyInfomationActivity" />
         <activity android:name="com.example.nowsafe.NewpasswordActivity" />
         <activity android:name="com.example.nowsafe.LoginActivity" />
         <activity android:name="com.example.nowsafe.SelectUserActivity" />

@@ -3,137 +3,151 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+    android:layout_weight="1" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="3dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical">
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_horizontal"
+            android:layout_weight="1"
+            android:orientation="horizontal">
 
-
-            <LinearLayout
+            <ImageView
+                android:id="@+id/security"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="fill_horizontal"
-                android:orientation="horizontal">
-
-                <ImageView
-                    android:id="@+id/security"
-                    android:layout_width="match_parent"
-                    android:layout_height="260dp"
-                    android:layout_gravity="center"
-                    android:layout_margin="20dp"
-                    android:layout_marginTop="100dp"
-                    app:srcCompat="@drawable/admin" />
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="131dp"
-                android:orientation="horizontal">
-
-                <TextView
-                    android:id="@+id/dialogueBoxtTitle"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_gravity="center"
-                    android:layout_marginTop="10dp"
-                    android:layout_marginBottom="40dp"
-                    android:gravity="center_horizontal"
-                    android:text="마이 프로필"
-                    android:textColor="#000000"
-                    android:textSize="30sp" />
-            </LinearLayout>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginLeft="50dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginRight="30dp"
-                android:layout_marginBottom="20dp"
-                android:text="신지훈(관리자)"
-                android:textColor="#000000"
-                android:textSize="22sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="50dp"
-                android:layout_marginLeft="50dp"
-                android:layout_marginTop="12dp"
-                android:layout_marginRight="30dp"
-                android:layout_marginBottom="20dp"
-                android:text="전화번호:010-3100-5136"
-                android:textColor="#000000"
-                android:textSize="22sp" />
-
-            <Button
-                android:id="@+id/gotochangename"
-                android:layout_width="335dp"
-                android:layout_height="72dp"
+                android:layout_height="260dp"
                 android:layout_gravity="center"
-                android:layout_marginStart="6dp"
-                android:layout_marginLeft="6dp"
-                android:layout_marginEnd="6dp"
-                android:layout_marginRight="6dp"
-                android:text="내 정보 수정"
-                android:textColor="@color/white"
-                android:textSize="22sp"
-                app:backgroundTint="#0635e3"
-                app:layout_constraintEnd_toEndOf="@id/editTextTextPassword4"
-                app:layout_constraintHorizontal_bias="0.4"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintVertical_bias="0.158" />
-
-
-
-            <Button
-                android:id="@+id/gotochangepassword"
-                android:layout_width="335dp"
-                android:layout_height="72dp"
-                android:layout_gravity="center"
-                android:layout_marginStart="6dp"
-                android:layout_marginLeft="6dp"
-                android:layout_marginEnd="6dp"
-                android:layout_marginRight="6dp"
-                android:text="비밀번호 변경"
-                android:textColor="@color/white"
-                android:textSize="22sp"
-                app:backgroundTint="#0635e3"
-                app:layout_constraintEnd_toEndOf="@id/editTextTextPassword4"
-                app:layout_constraintHorizontal_bias="0.4"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintVertical_bias="0.158" />
-
-            <Button
-                android:id="@+id/gotologin"
-                android:layout_width="335dp"
-                android:layout_height="72dp"
-                android:layout_gravity="center"
-                android:layout_marginStart="6dp"
-                android:layout_marginLeft="6dp"
-                android:layout_marginEnd="6dp"
-                android:layout_marginRight="6dp"
-                android:text="로그아웃"
-                android:textColor="@color/white"
-                android:textSize="22sp"
-                app:backgroundTint="#0635e3"
-                app:layout_constraintEnd_toEndOf="@id/editTextTextPassword4"
-                app:layout_constraintHorizontal_bias="0.4"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintVertical_bias="0.158" />
-
-            <RelativeLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
-
-            </RelativeLayout>
-
-
-
-
+                android:layout_margin="20dp"
+                android:layout_marginTop="100dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/myprofile" />
         </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dialogueBoxtTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="40dp"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:text="마이 프로필"
+                android:textColor="#000000"
+                android:textSize="30sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:text="신지훈(관리자)"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:text="전화번호:010-3100-5136"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/gotochangename"
+            android:layout_width="335dp"
+            android:layout_height="72dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1"
+            android:text="내 정보 수정"
+            android:textColor="#0635e3"
+            android:textSize="22sp"
+            app:backgroundTint="@color/white"
+            app:layout_constraintEnd_toEndOf="@id/editTextTextPassword4"
+            app:layout_constraintHorizontal_bias="0.4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.158" />
+
+
+        <Button
+            android:id="@+id/gotochangepassword"
+            android:layout_width="335dp"
+            android:layout_height="72dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1"
+            android:text="비밀번호 변경"
+            android:textColor="#0635e3"
+            android:textSize="22sp"
+            app:backgroundTint="@color/white"
+            app:layout_constraintEnd_toEndOf="@id/editTextTextPassword4"
+            app:layout_constraintHorizontal_bias="0.4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.158" />
+
+        <Button
+            android:id="@+id/gotologin"
+            android:layout_width="335dp"
+            android:layout_height="72dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="1"
+            android:onClick="LoginActivity"
+            android:text="로그아웃"
+            android:textColor="#0635e3"
+            android:textSize="22sp"
+            app:backgroundTint="@color/white"
+            app:layout_constraintEnd_toEndOf="@id/editTextTextPassword4"
+            app:layout_constraintHorizontal_bias="0.4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.158" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+        </RelativeLayout>
+
+    </LinearLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>

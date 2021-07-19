@@ -92,14 +92,14 @@
         android:inputType="textPassword"
         android:selectAllOnFocus="true"
         android:visibility="visible"
-        app:layout_constraintBottom_toTopOf="@+id/login"
+        app:layout_constraintBottom_toTopOf="@+id/changepassworddone"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.818"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password_text" />
 
     <Button
-        android:id="@+id/login"
+        android:id="@+id/changepassworddone"
         android:layout_width="335dp"
         android:layout_height="72dp"
         android:layout_gravity="start"
@@ -132,7 +132,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/gotoPassword"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/login" />
+        app:layout_constraintTop_toBottomOf="@+id/changepassworddone" />
 
     <Button
         android:id="@+id/gotoPassword"
@@ -149,7 +149,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/registerButton"
-        app:layout_constraintTop_toBottomOf="@+id/login" />
+        app:layout_constraintTop_toBottomOf="@+id/changepassworddone" />
 
     <View
         android:id="@+id/divider2"

@@ -1,9 +1,3 @@
-com/example/nowsafe/NewpasswordActivity.java
- com.example.nowsafe.NewpasswordActivity
-com/example/nowsafe/BuildConfig.java
- com.example.nowsafe.BuildConfig
-com/example/nowsafe/ManagerMenuActivity.java
- com.example.nowsafe.ManagerMenuActivity
 com/example/nowsafe/RegisterRequest.java
  com.example.nowsafe.RegisterRequest
 com/example/nowsafe/LoginActivity.java
@@ -11,6 +5,7 @@ com/example/nowsafe/LoginActivity.java
  com.example.nowsafe.LoginActivity$1
  com.example.nowsafe.LoginActivity$2
  com.example.nowsafe.LoginActivity$2$1
+ com.example.nowsafe.LoginActivity$3
 com/example/nowsafe/IntroActivity.java
  com.example.nowsafe.IntroActivity
  com.example.nowsafe.IntroActivity$1
@@ -18,13 +13,28 @@ com/example/nowsafe/RegisterActivity.java
  com.example.nowsafe.RegisterActivity
  com.example.nowsafe.RegisterActivity$1
  com.example.nowsafe.RegisterActivity$1$1
+com/example/nowsafe/LoginRequest.java
+ com.example.nowsafe.LoginRequest
+com/example/nowsafe/NewpasswordActivity.java
+ com.example.nowsafe.NewpasswordActivity
+com/example/nowsafe/BuildConfig.java
+ com.example.nowsafe.BuildConfig
+com/example/nowsafe/ManagerMenuActivity.java
+ com.example.nowsafe.ManagerMenuActivity
+ com.example.nowsafe.ManagerMenuActivity$1
+com/example/nowsafe/ChangePasswordActivity.java
+ com.example.nowsafe.ChangePasswordActivity
+ com.example.nowsafe.ChangePasswordActivity$1
+com/example/nowsafe/MyInfomationActivity.java
+ com.example.nowsafe.MyInfomationActivity
+ com.example.nowsafe.MyInfomationActivity$1
+ com.example.nowsafe.MyInfomationActivity$2
 com/example/nowsafe/FindPasswordActivity.java
  com.example.nowsafe.FindPasswordActivity
  com.example.nowsafe.FindPasswordActivity$1
 com/example/nowsafe/LaborMenuActivity.java
  com.example.nowsafe.LaborMenuActivity
-com/example/nowsafe/LoginRequest.java
- com.example.nowsafe.LoginRequest
+ com.example.nowsafe.LaborMenuActivity$1
 com/example/nowsafe/SelectUserActivity.java
  com.example.nowsafe.SelectUserActivity
  com.example.nowsafe.SelectUserActivity$1

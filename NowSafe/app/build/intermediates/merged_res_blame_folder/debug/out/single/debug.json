@@ -220,6 +220,10 @@
         "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable\\checkmanage.png"
     },
     {
+        "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myprofile.png.flat",
+        "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\drawable-v24\\myprofile.png"
+    },
+    {
         "merged": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
         "source": "C:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\src\\main\\res\\layout\\register.xml"
     },

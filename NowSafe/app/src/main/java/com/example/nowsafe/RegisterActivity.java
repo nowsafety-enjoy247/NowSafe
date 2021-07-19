@@ -50,7 +50,7 @@ public class RegisterActivity extends AppCompatActivity {
                 //라이도 그룹에서 선택된 라이도 버튼 텍스트 가져오기
                 int selectedId = rb_position.getCheckedRadioButtonId();
                 RadioButton radioButton = (RadioButton) findViewById(selectedId);
-                String userPosition = (String) radioButton.getText().toString();
+                String userPosition = (String) radioButton.getText().toString();//라디오 버튼 안누르고 회원가입 누르면 터짐
 
                 //위에 항목 중 안 쓴 항목이 있는 경우
                 if (userName.length() == 0 || userID.length() == 0 || userPosition.length() == 0 ||
