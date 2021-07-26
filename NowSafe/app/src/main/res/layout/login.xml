@@ -1,6 +1,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -12,33 +13,32 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="331dp"
-        android:layout_height="150dp"
+        android:layout_width="280dp"
+        android:layout_height="140dp"
         android:layout_marginStart="58dp"
         android:layout_marginLeft="58dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="90dp"
         android:layout_marginEnd="58dp"
         android:layout_marginRight="58dp"
-        android:layout_marginBottom="30dp"
         android:background="@drawable/intrologo"
-        app:layout_constraintBottom_toTopOf="@+id/id_text"
+        app:layout_constraintBottom_toTopOf="@+id/new_password"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/id_text"
+        android:id="@+id/new_password"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="30dp"
         android:layout_marginEnd="30dp"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="1dp"
         android:text="연락처"
         android:textColor="#000000"
-        android:textSize="20sp"
+        android:textSize="22sp"
         app:layout_constraintBottom_toTopOf="@+id/idInput_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.75"
@@ -60,7 +60,7 @@
         app:layout_constraintBottom_toTopOf="@+id/password_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/id_text" />
+        app:layout_constraintTop_toBottomOf="@+id/new_password" />
 
     <TextView
         android:id="@+id/password_text"
@@ -73,7 +73,7 @@
         android:layout_marginBottom="1dp"
         android:text="비밀번호"
         android:textColor="#000000"
-        android:textSize="20sp"
+        android:textSize="22sp"
         app:layout_constraintBottom_toTopOf="@+id/passwordInput_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -87,21 +87,21 @@
         android:layout_marginLeft="30dp"
         android:layout_marginEnd="30dp"
         android:layout_marginRight="30dp"
-        android:layout_marginBottom="49dp"
         android:imeActionLabel="비밀번호"
         android:imeOptions="actionDone"
         android:inputType="textPassword"
         android:selectAllOnFocus="true"
         android:visibility="visible"
-        app:layout_constraintBottom_toTopOf="@+id/login"
+        app:layout_constraintBottom_toTopOf="@+id/changepassworddone"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.818"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password_text" />
 
     <Button
-        android:id="@+id/login"
+        android:id="@+id/changepassworddone"
         android:layout_width="335dp"
-        android:layout_height="60dp"
+        android:layout_height="72dp"
         android:layout_gravity="start"
         android:layout_marginStart="6dp"
         android:layout_marginLeft="6dp"
@@ -110,9 +110,9 @@
         android:onClick="goToMain"
         android:text="로그인"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="22sp"
         app:backgroundTint="#0635e3"
-        app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintBottom_toTopOf="@+id/gotoPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.4"
         app:layout_constraintStart_toStartOf="parent"
@@ -120,23 +120,22 @@
         app:layout_constraintVertical_bias="0.158" />
 
     <Button
-        android:id="@+id/newActivity"
+        android:id="@+id/registerButton"
         style="?android:attr/borderlessButtonStyle"
         android:layout_width="164dp"
         android:layout_height="45dp"
-        android:layout_marginTop="2dp"
         android:layout_marginBottom="17dp"
         android:background="#00ffffff"
         android:text="회원가입"
         android:textColor="#0635e3"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/button3"
+        app:layout_constraintEnd_toStartOf="@+id/gotoPassword"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/login" />
+        app:layout_constraintTop_toBottomOf="@+id/changepassworddone" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/gotoPassword"
         style="?android:attr/borderlessButtonStyle"
         android:layout_width="168dp"
         android:layout_height="45dp"
@@ -149,6 +148,16 @@
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/newActivity"
-        app:layout_constraintTop_toBottomOf="@+id/login" />
+        app:layout_constraintStart_toEndOf="@+id/registerButton"
+        app:layout_constraintTop_toBottomOf="@+id/changepassworddone" />
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="?android:attr/listDivider"
+        android:backgroundTint="@color/black"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="16dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
