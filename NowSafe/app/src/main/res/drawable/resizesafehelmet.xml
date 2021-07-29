@@ -2,7 +2,8 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:drawable="@drawable/safehelmet1"
-        android:top="30dp"
+        android:top="20dp"
+        android:left="20dp"
         android:width="100dp"
         android:height="100dp"
         />

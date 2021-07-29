@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:allowBackup="false"
+        android:hardwareAccelerated="true"
         android:theme="@style/Theme.NowSafe">
         <meta-data
             android:name="com.google.android.actions"
@@ -21,6 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ChecklistActivity"/>
+        <activity android:name=".SearchActivity"/>
+        <activity android:name=".QRcoder"/>
         <activity android:name=".ChangePasswordActivity"/>
         <activity android:name=".FindPasswordActivity"/>
         <activity android:name=".MyInfomationActivity"/>
@@ -30,6 +34,7 @@
         <activity android:name=".LaborMenuActivity" />
         <activity android:name=".ManagerMenuActivity" />
         <activity android:name=".RegisterActivity" />
+        <activity android:name=".facilityListActivity"/>
     </application>
 
 </manifest>

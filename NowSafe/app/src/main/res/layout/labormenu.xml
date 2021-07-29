@@ -18,14 +18,14 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="70dp"
-            android:background="#0635E3"
+            android:background="#4b89dc"
             android:orientation="horizontal">
 
             <!--로고 박아놓기-->
             <ImageView
                 android:id="@+id/logo"
                 android:layout_width="match_parent"
-                android:layout_height="120dp"
+                android:layout_height="112dp"
                 android:layout_gravity="center"
                 android:layout_margin="20dp"
                 app:srcCompat="@drawable/logo_white2" />

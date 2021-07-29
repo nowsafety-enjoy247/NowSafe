@@ -1,114 +1,115 @@
-<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/tableLayout1"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_weight="1"
-    android:background="@android:color/transparent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#5559b4"
+    android:fitsSystemWindows="true"
+    android:id="@+id/drawer_layout">
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back">
+
 
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:layout_gravity="fill_horizontal"
-        android:background="#0635E3"
-        android:orientation="horizontal">
+        android:layout_height="match_parent"
+        android:background="@color/back"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
 
-        <ImageView
-            android:id="@+id/logo"
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
             android:layout_width="match_parent"
-            android:layout_height="120dp"
-            android:layout_gravity="center"
-            android:layout_margin="20dp"
-            app:srcCompat="@drawable/logo_white2" />
-    </LinearLayout>
+            android:layout_height="70dp"
+            android:background="#4b89dc"
+            android:theme="@style/Theme.NavigationDrawer">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal">
+
+                <!--로고 박아놓기-->
+
+
+
+
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+
 
         <Button
             android:id="@+id/BtnNum1"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_gravity="fill_horizontal"
-            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="7dp"
             android:layout_weight="1"
             android:textColor="@drawable/buttoncolor"
-            android:drawableTop="@drawable/resizesafehelmet"
-            android:drawableBottom="@drawable/resizecheckequip"
+            android:drawableLeft="@drawable/resizesafehelmet"
+            android:drawableRight="@drawable/resizecheckequip"
+            android:textSize="34sp"
+            app:backgroundTint="#FFFFFF"
+            app:cornerRadius="30dp" />
+        <Button
+            android:id="@+id/checklist"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:textColor="@drawable/buttoncolor"
+            android:drawableLeft="@drawable/resizesafesystem"
+            android:drawableRight="@drawable/resizechecksystem1"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
 
         <Button
-            android:id="@+id/BtnNum2"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_gravity="fill_horizontal"
-            android:layout_margin="5dp"
+            android:id="@+id/gotolist"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/resizemanegerdocu"
+            android:drawableRight="@drawable/resizehelmettext"
+            android:onClick="SearchActivity"
+            android:textColor="@drawable/buttoncolor"
+            android:textSize="34sp"
+            app:backgroundTint="@color/white"
+            app:cornerRadius="30dp" />
+
+        <Button
+            android:id="@+id/qrCodeButton"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="7dp"
             android:layout_weight="1"
             android:textColor="@drawable/buttoncolor"
-            android:drawableTop="@drawable/resizesafesystem"
-            android:drawableBottom="@drawable/resizechecksystem1"
+            android:drawableLeft="@drawable/resizeqricon"
+            android:drawableRight="@drawable/resizecheckqr2"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
-
 
     </LinearLayout>
-
-    <LinearLayout
+</LinearLayout>
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navigation_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="1" >
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/managerinfomation" />
 
-        <Button
-            android:id="@+id/BtnNum3"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_gravity="fill_horizontal"
-            android:layout_margin="5dp"
-            android:layout_weight="1"
-            android:textColor="@drawable/buttoncolor"
-            android:drawableTop="@drawable/resizemanegerdocu"
-            android:drawableBottom="@drawable/resizehelmettext"
-            android:textSize="34sp"
-            app:backgroundTint="#FFFFFF"
-            app:cornerRadius="30dp" />
-
-        <Button
-            android:id="@+id/BtnNum4"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_margin="5dp"
-            android:layout_weight="1"
-            android:textColor="@drawable/buttoncolor"
-            android:drawableTop="@drawable/resizeqricon"
-            android:drawableBottom="@drawable/resizecheckqr2"
-            android:textSize="34sp"
-            app:backgroundTint="#FFFFFF"
-            app:cornerRadius="30dp" />
-
-
-
-
-    </LinearLayout>
-
-    <Button
-        android:id="@+id/gotomyinfo"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="fill_horizontal"
-        android:layout_margin="5dp"
-        android:layout_weight="1"
-        android:drawableTop="@drawable/resizemanicon"
-        android:drawableBottom="@drawable/myinfotext"
-        android:textSize="34sp"
-        app:backgroundTint="#FFFFFF"
-        app:cornerRadius="30dp" />
-
-
-</TableLayout>
+</androidx.drawerlayout.widget.DrawerLayout>
 
