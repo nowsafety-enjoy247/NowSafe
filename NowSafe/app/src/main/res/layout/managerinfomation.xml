@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="280dp"
+    android:layout_height="482dp"
+    android:layout_gravity="start"
+    android:id="@+id/drawerView"
+    android:background="#4b89dc">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="#4b89dc">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="안녕하세요"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true">
+        </TextView>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/t"
+                android:layout_marginLeft="10dp">
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="신지훈(관리자)님"
+                android:textSize="24dp"
+                android:textColor="#ffffff"
+                android:layout_marginTop="80dp"
+                android:layout_marginLeft="44dp"
+                >
+            </TextView>
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="오늘도 안전한 하루 되세요"
+            android:textSize="14dp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="130dp"
+            android:layout_centerHorizontal="true">
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#80ffffff"
+            android:layout_marginTop="270dp">
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="298dp"
+            android:layout_marginLeft="20dp">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/nav_changepassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="44dp"
+            android:onClick="OnClick"
+            android:layout_marginTop="298dp"
+            android:text="    비밀번호 변경        >"
+            android:textColor="#ffffff">
+
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#80ffffff"
+            android:layout_marginTop="340dp">
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="368dp"
+            android:layout_marginLeft="20dp">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/nav_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="OnClick"
+            android:layout_marginLeft="44dp"
+            android:layout_marginTop="368dp"
+            android:text="    회원정보조회         >"
+            android:textColor="#ffffff">
+
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#80ffffff"
+            android:layout_marginTop="410dp">
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="438dp"
+            android:layout_marginLeft="20dp">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/nav_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="OnClick"
+            android:layout_marginLeft="44dp"
+            android:layout_marginTop="438dp"
+            android:text="    로그아웃                >"
+            android:textColor="#ffffff">
+
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#80ffffff"
+            android:layout_marginTop="480dp">
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

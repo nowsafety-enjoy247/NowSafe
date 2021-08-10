@@ -13,74 +13,144 @@
 11    <uses-permission android:name="android.permission.INTERNET" />
 11-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:4:5-67
 11-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:4:22-64
-12
-13    <application
-13-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:6:5-34:19
-14        android:allowBackup="true"
-14-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:7:9-35
-15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.5.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\cc5e9dcdc56dc39042f72c501235e83f\core-1.5.0\AndroidManifest.xml:24:18-86
-16        android:debuggable="true"
-17        android:icon="@mipmap/ic_launcher"
-17-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:8:9-43
-18        android:label="@string/app_name"
-18-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:9:9-41
-19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:10:9-54
-20        android:supportsRtl="true"
-20-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:11:9-35
-21        android:testOnly="true"
-22        android:theme="@style/Theme.NowSafe" >
-22-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:12:9-45
-23        android:usesCleartextTraffic="true">
-24        <meta-data
-24-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:14:9-16:61
-25            android:name="com.google.android.actions"
-25-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:15:13-54
-26            android:resource="@drawable/resizecheckicon1" />
-26-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:16:13-58
-27
-28        <activity android:name="com.example.nowsafe.IntroActivity" >
-28-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:18:9-24:20
-28-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:18:19-48
-29            <intent-filter>
-29-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:19:13-23:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:20:17-69
-30-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:20:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:22:17-77
-32-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:22:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity android:name="com.example.nowsafe.ChangePasswordActivity" />
-35-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:9-59
-35-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:19-57
-36        <activity android:name="com.example.nowsafe.FindPasswordActivity" />
-36-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:9-57
-36-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:19-55
-37        <activity android:name="com.example.nowsafe.MyInfomationActivity" />
-37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:9-57
-37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:19-55
-38        <activity android:name="com.example.nowsafe.NewpasswordActivity" />
-38-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:9-56
-38-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:19-54
-39        <activity android:name="com.example.nowsafe.LoginActivity" />
-39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:9-51
-39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:19-48
-40        <activity android:name="com.example.nowsafe.SelectUserActivity" />
-40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:9-56
-40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:19-53
-41        <activity android:name="com.example.nowsafe.LaborMenuActivity" />
-41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:9-55
-41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:19-52
-42        <activity android:name="com.example.nowsafe.ManagerMenuActivity" />
-42-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:32:9-57
-42-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:32:19-54
-43        <activity android:name="com.example.nowsafe.RegisterActivity" />
-43-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:33:9-54
-43-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:33:19-51
-44    </application>
-45
-46</manifest>
+12    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+12-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+12-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
+13    <uses-feature
+13-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+14        android:name="android.hardware.camera"
+14-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+15        android:required="false" />
+15-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+16    <uses-feature
+16-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+17        android:name="android.hardware.camera.front"
+17-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+18        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+18-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+19    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+20    <uses-feature
+20-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+21        android:name="android.hardware.camera.autofocus"
+21-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+22        android:required="false" />
+22-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+23    <uses-feature
+23-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+24        android:name="android.hardware.camera.flash"
+24-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+25        android:required="false" />
+25-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+26    <uses-feature
+26-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+27        android:name="android.hardware.screen.landscape"
+27-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+28        android:required="false" />
+28-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+29    <uses-feature
+29-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+30        android:name="android.hardware.wifi"
+30-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+31        android:required="false" />
+31-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+32
+33    <application
+33-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:6:5-39:19
+34        android:allowBackup="false"
+34-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:11:9-36
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.5.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\cc5e9dcdc56dc39042f72c501235e83f\core-1.5.0\AndroidManifest.xml:24:18-86
+36        android:debuggable="true"
+37        android:hardwareAccelerated="true"
+37-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:12:9-43
+38        android:icon="@mipmap/ic_launcher"
+38-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:7:9-43
+39        android:label="@string/app_name"
+39-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:8:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:9:9-54
+41        android:supportsRtl="true"
+41-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:10:9-35
+42        android:testOnly="true"
+43        android:theme="@style/Theme.NowSafe" >
+43-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:13:9-45
+44        <meta-data
+44-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:14:9-16:61
+45            android:name="com.google.android.actions"
+45-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:15:13-54
+46            android:resource="@drawable/resizecheckicon1" />
+46-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:16:13-58
+47
+48        <activity android:name="com.example.nowsafe.IntroActivity" >
+48-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:18:9-24:20
+48-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:18:19-48
+49            <intent-filter>
+49-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:19:13-23:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:20:17-69
+50-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:20:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:22:17-77
+52-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:22:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity android:name="com.example.nowsafe.FakeActivity" />
+55-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:9-49
+55-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:25:19-47
+56        <activity android:name="com.example.nowsafe.facilityListActivity" />
+56-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:9-57
+56-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:26:19-55
+57        <activity android:name="com.example.nowsafe.ChecklistActivity" />
+57-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:9-54
+57-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:27:19-52
+58        <activity android:name="com.example.nowsafe.SearchActivity" />
+58-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:9-51
+58-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:28:19-49
+59        <activity android:name="com.example.nowsafe.QRcoder" />
+59-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:9-44
+59-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:29:19-42
+60        <activity android:name="com.example.nowsafe.ChangePasswordActivity" />
+60-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:9-59
+60-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:30:19-57
+61        <activity android:name="com.example.nowsafe.FindPasswordActivity" />
+61-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:9-57
+61-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:31:19-55
+62        <activity android:name="com.example.nowsafe.MyInfomationActivity" />
+62-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:32:9-57
+62-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:32:19-55
+63        <activity android:name="com.example.nowsafe.NewpasswordActivity" />
+63-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:33:9-56
+63-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:33:19-54
+64        <activity android:name="com.example.nowsafe.LoginActivity" />
+64-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:34:9-51
+64-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:34:19-48
+65        <activity android:name="com.example.nowsafe.SelectUserActivity" />
+65-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:35:9-56
+65-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:35:19-53
+66        <activity android:name="com.example.nowsafe.LaborMenuActivity" />
+66-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:36:9-55
+66-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:36:19-52
+67        <activity android:name="com.example.nowsafe.ManagerMenuActivity" />
+67-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:37:9-57
+67-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:37:19-54
+68        <activity android:name="com.example.nowsafe.RegisterActivity" />
+68-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:38:9-54
+68-->C:\Users\tlswl\NowSafe\NowSafe\app\src\main\AndroidManifest.xml:38:19-51
+69        <activity
+69-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+70            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+70-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+71            android:clearTaskOnLaunch="true"
+71-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+72            android:screenOrientation="sensorLandscape"
+72-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+73            android:stateNotNeeded="true"
+73-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+74            android:theme="@style/zxing_CaptureTheme"
+74-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+75            android:windowSoftInputMode="stateAlwaysHidden" />
+75-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\tlswl\.gradle\caches\transforms-2\files-2.1\4ff5e6627e1f95ab4d31138f29598d28\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+76    </application>
+77
+78</manifest>

@@ -1,3 +1,11 @@
+com/example/nowsafe/ChecklistActivity.java
+ com.example.nowsafe.ChecklistActivity
+ com.example.nowsafe.ChecklistActivity$1
+ com.example.nowsafe.ChecklistActivity$2
+com/example/nowsafe/SearchActivity.java
+ com.example.nowsafe.SearchActivity
+ com.example.nowsafe.SearchActivity$1
+ com.example.nowsafe.SearchActivity$2
 com/example/nowsafe/RegisterRequest.java
  com.example.nowsafe.RegisterRequest
 com/example/nowsafe/LoginActivity.java
@@ -13,15 +21,35 @@ com/example/nowsafe/RegisterActivity.java
  com.example.nowsafe.RegisterActivity
  com.example.nowsafe.RegisterActivity$1
  com.example.nowsafe.RegisterActivity$1$1
+com/example/nowsafe/facilityListActivity.java
+ com.example.nowsafe.facilityListActivity
+ com.example.nowsafe.facilityListActivity$1
+ com.example.nowsafe.facilityListActivity$1$1
+ com.example.nowsafe.facilityListActivity$1$2
+ com.example.nowsafe.facilityListActivity$2
+ com.example.nowsafe.facilityListActivity$3
 com/example/nowsafe/LoginRequest.java
  com.example.nowsafe.LoginRequest
 com/example/nowsafe/NewpasswordActivity.java
  com.example.nowsafe.NewpasswordActivity
+com/example/nowsafe/QRcoder.java
+ com.example.nowsafe.QRcoder
+ com.example.nowsafe.QRcoder$1
 com/example/nowsafe/BuildConfig.java
  com.example.nowsafe.BuildConfig
+com/example/nowsafe/ManagerMenu2.java
+ com.example.nowsafe.ManagerMenu2
+ com.example.nowsafe.ManagerMenu2$1
+ com.example.nowsafe.ManagerMenu2$2
+ com.example.nowsafe.ManagerMenu2$3
 com/example/nowsafe/ManagerMenuActivity.java
  com.example.nowsafe.ManagerMenuActivity
  com.example.nowsafe.ManagerMenuActivity$1
+ com.example.nowsafe.ManagerMenuActivity$2
+ com.example.nowsafe.ManagerMenuActivity$3
+ com.example.nowsafe.ManagerMenuActivity$4
+com/example/nowsafe/FakeActivity.java
+ com.example.nowsafe.FakeActivity
 com/example/nowsafe/ChangePasswordActivity.java
  com.example.nowsafe.ChangePasswordActivity
  com.example.nowsafe.ChangePasswordActivity$1

@@ -1,4 +1,4 @@
-#Mon Jul 19 17:02:39 KST 2021
+#Mon Aug 02 00:32:44 KST 2021
 base.0=C\:\\Users\\tlswl\\NowSafe\\NowSafe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
