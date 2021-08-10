@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <!--상단바 만들기-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#4b89dc"
+        android:orientation="horizontal">
+
+        <!--로고 박아놓기-->
+        <ImageView
+            android:id="@+id/logo3"
+            android:layout_width="match_parent"
+            android:layout_height="112dp"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/logo_white2" />
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="*">
+
+        <TableRow>
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/BtnNum1"
+                android:layout_height="328dp"
+                android:layout_margin="7dp"
+                android:text="장비점검"
+                android:textSize="34sp"
+                app:backgroundTint="#FFFFFF"
+                app:cornerRadius="30dp" />
+
+            <Button
+                android:id="@+id/checklist"
+                android:layout_height="332dp"
+                android:layout_margin="7dp"
+                android:text="시설점검"
+                android:textSize="34sp"
+                app:backgroundTint="#FFFFFF"
+                app:cornerRadius="30dp" />
+        </TableRow>
+
+        <TableRow>
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/gotolist"
+                android:layout_height="349dp"
+                android:layout_margin="7dp"
+                android:onClick="SearchActivity"
+                android:text="점검조회"
+                android:textSize="34sp"
+                app:backgroundTint="@color/white"
+                app:cornerRadius="30dp" />
+
+            <Button
+                android:id="@+id/qrCodeButton"
+                android:layout_height="346dp"
+                android:layout_margin="7dp"
+                android:text="QR코드"
+                android:textSize="34sp"
+                app:backgroundTint="#FFFFFF"
+                app:cornerRadius="30dp" />
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

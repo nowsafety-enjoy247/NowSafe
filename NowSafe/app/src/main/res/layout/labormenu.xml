@@ -33,13 +33,14 @@
 
 
         <Button
-            android:id="@+id/checkManageButton"
+            android:id="@+id/gotolist"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:drawableTop="@drawable/resizecheckicon1"
-            android:drawableBottom="@drawable/checktext"
+            android:drawableLeft="@drawable/resizeicon3"
+            android:text="점검조회"
+            android:onClick="SearchActivity"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
@@ -50,10 +51,10 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:drawableTop="@drawable/resizemanicon"
-            android:drawableBottom="@drawable/myinfotext"
+            android:drawableLeft="@drawable/resizeicon5"
+            android:text="개인정보"
             android:textSize="34sp"
-            app:backgroundTint="@color/white"
+            app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
 
         <Button
@@ -62,8 +63,8 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:drawableTop="@drawable/resizeqricon"
-            android:drawableBottom="@drawable/qrtext"
+            android:drawableLeft="@drawable/resizeicon4"
+            android:text="QR코드"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />

@@ -43,8 +43,13 @@
                 <!--로고 박아놓기-->
 
 
-
-
+                <ImageView
+                    android:id="@+id/logo2"
+                    android:layout_width="match_parent"
+                    android:layout_height="112dp"
+                    android:layout_gravity="center"
+                    android:layout_margin="20dp"
+                    app:srcCompat="@drawable/logo_white2" />
             </LinearLayout>
         </androidx.appcompat.widget.Toolbar>
 
@@ -55,9 +60,8 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:textColor="@drawable/buttoncolor"
-            android:drawableLeft="@drawable/resizesafehelmet"
-            android:drawableRight="@drawable/resizecheckequip"
+            android:drawableLeft="@drawable/resizeicon1"
+            android:text="장비점검"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
@@ -67,9 +71,8 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:textColor="@drawable/buttoncolor"
-            android:drawableLeft="@drawable/resizesafesystem"
-            android:drawableRight="@drawable/resizechecksystem1"
+            android:drawableLeft="@drawable/resizeicon2"
+            android:text="시설점검"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
@@ -80,12 +83,11 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:drawableLeft="@drawable/resizemanegerdocu"
-            android:drawableRight="@drawable/resizehelmettext"
+            android:drawableLeft="@drawable/resizeicon3"
+            android:text="점검조회"
             android:onClick="SearchActivity"
-            android:textColor="@drawable/buttoncolor"
             android:textSize="34sp"
-            app:backgroundTint="@color/white"
+            app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
 
         <Button
@@ -94,9 +96,8 @@
             android:layout_height="0dp"
             android:layout_margin="7dp"
             android:layout_weight="1"
-            android:textColor="@drawable/buttoncolor"
-            android:drawableLeft="@drawable/resizeqricon"
-            android:drawableRight="@drawable/resizecheckqr2"
+            android:drawableLeft="@drawable/resizeicon4"
+            android:text="QR코드"
             android:textSize="34sp"
             app:backgroundTint="#FFFFFF"
             app:cornerRadius="30dp" />
